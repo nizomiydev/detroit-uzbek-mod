@@ -61,6 +61,25 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
+# Python
+__pycache__/
+*.pyc
+
+# Build
+build/
+dist/
+
+# Installer output
+*.exe
+
+# Game files
+*.idx
+*.d30
+
+# IDE
+.vscode/
+.idea/
+
 # Flask stuff:
 instance/
 .webassets-cache

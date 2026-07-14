@@ -20,6 +20,26 @@ A Python-based installer for the Uzbek localization of Detroit: Become Human.
 
 Active development.
 
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/username/Detroit-Mod-Installer.git
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run:
+
+```bash
+python installer.py
+```
+
 ## Author
 
 Muhammadsaid Nizomiy
