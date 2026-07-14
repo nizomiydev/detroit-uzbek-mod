@@ -1,24 +1,27 @@
-# Detroit Mod Installer
+# Detroit: Become Human Uzbek Mod
 
-A Python-based installer for the Uzbek localization of Detroit: Become Human.
+An installer for the Uzbek localization of Detroit: Become Human.
 
 ## Features
 
-- Automatic game folder detection
-- Steam support
+- Uzbek localization
+- Automatic Steam detection
 - One-click installation
 - Restore original files
-- Modern graphical interface
+- Modern installer interface
 
-## Technologies
+## Screenshots
 
-- Python
-- CustomTkinter
-- PyInstaller
+![Installer](screenshots/installer.png)
 
-## Project Status
+## Requirements
 
-Active development.
+- Windows 10/11
+- Steam version
+
+## Installation
+
+Download the latest installer from the Releases section.
 
 ## Installation
 
